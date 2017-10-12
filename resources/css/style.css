@@ -10,3 +10,27 @@ h1 {
 	font-size: 50px;
 	color: white;
 }
+
+.download a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+h2 {
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.description {
+	font-family: Verdana;
+	font-size: 21px;
+	color: gray;
+}
+
+.copyright {
+	font-family: Verdana;
+	font-size: 21px;
+	color: gray;
+	text-align: right;	
+}
